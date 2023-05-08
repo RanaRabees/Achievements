@@ -1,2 +1,2 @@
 # Achievements
-Gitub Achievements
+GitHub Achievements
